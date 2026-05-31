@@ -44,7 +44,7 @@ Language : Turkish, Polish , English
 
 ### 📸 Screenshot
 
-!\[Flower Sales Report](images/flowersales.png)
+![Flower Sales Report](images/flowersales.png)
 
 ### 📁 Excel File
 
