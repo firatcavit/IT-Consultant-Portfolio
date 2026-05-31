@@ -49,7 +49,7 @@ Language : Turkish, Polish , English
 ### 📁 Excel File
 
 
-\[Download Excel Report (EN/TR/PL)] (https://1drv.ms/x/c/0a8adfaceb1dc513/IQAC6wfshuh4TqI\_rltbEJ6vASRfiHCgmS9Ca37ReP154Ts?e=yrk0rk)
+\[Download Excel Report (EN/TR/PL)] ([https://1drv.ms/x/c/0a8adfaceb1dc513/IQAC6wfshuh4TqI\_rltbEJ6vASRfiHCgmS9Ca37ReP154Ts?e=yrk0rk](https://1drv.ms/x/c/0a8adfaceb1dc513/IQAC6wfshuh4TqI_rltbEJ6vASRfiHCgmS9Ca37ReP154Ts?e=yHmxjO))
 
 ### 🔧 Excel Features Used
 
