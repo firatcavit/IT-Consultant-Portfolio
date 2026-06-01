@@ -103,3 +103,39 @@ The report includes **AutoFilter** (`Ctrl + Shift + L`) to list data dynamically
 **Benefits:**
 - Quick data exploration without changing the original table.
 - Dynamic listing for customer or manager presentations.
+
+
+
+########################################################################################################################################################################################
+
+
+
+## 📂 SQL Queries (AdventureWorksDW2022)
+
+All SQL files are grouped by table and business scenario.  
+Each file includes **3‑language documentation** (English, Turkish, Polish).
+
+### 📁 Customer Analysis (`DimCustomer`)
+
+| File | Description |
+| :--- | :--- |
+| [SQLDimCustomer.sql](SQL/SQLDimCustomer.sql) | Customers with/without children, age ranking, children count, adult children not at home |
+| [SQLMarginOfMF_DimCustomer.sql](SQL/SQLMarginOfMF_DimCustomer.sql) | Difference between male and female customers |
+
+### 📁 Product Profit Analysis (`DimProduct`)
+
+| File | Description |
+| :--- | :--- |
+| [Percentage,Profit_Of_Men_And_Women.sql](SQL/Percentage%2CProfit_Of_Men_And_Women.sql) | Profit, profit margin, total profit and difference between Men's and Women's products |
+| [SQLEnglisProduct.sql](SQL/SQLEnglisProduct.sql) | Same product profit analysis (alternative file) |
+
+### 📁 Reseller & Sales Analysis
+
+| File | Table(s) | Description |
+| :--- | :--- | :--- |
+| [SQLDimReseller.sql](SQL/SQLDimReseller.sql) | `DimReseller` | 'Road' products ordered between June and December |
+| [SQLFactResellerSales.sql](SQL/SQLFactResellerSales.sql) | `FactResellerSales` | Net profit per sales order (`SalesAmount - ProductStandardCost - TaxAmt`) |
+
+---
+
+**All queries were tested on Microsoft's AdventureWorksDW2022 sample database.**
