@@ -79,13 +79,13 @@ Language : Turkish, Polish , English
 
 
 ### 📸 Screenshots
-![Turkish Report](images/report_tr.png)
+![Turkish Report] (images/report_tr.png)
 
 
-![English Report](images/report_en.png)
+![English Report] (images/report_en.png)
 
 
-![Polish Report](images/report_pl.png)
+![Polish Report] (images/report_pl.png)
 
 
 
