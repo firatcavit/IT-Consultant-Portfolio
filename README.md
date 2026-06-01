@@ -16,14 +16,31 @@ This repository contains my \*\*SQL, Excel, and VBA\*\* projects prepared for th
 ## 📁 Project Structure
 
 
-\- \*\*`/SQL`\*\* – Scenario-based SQL queries (`JOIN`, `GROUP BY`, `Window Functions`, Subqueries) on AdventureWorksDW2022
+## 📊 SQL Projects
 
-\- \*\*`/EXCEL`\*\* – Excel reports (pivot tables, charts, formulas) in \*\*EN / TR / PL\*\*
+| File | Description |
+|---|---|
+| SQLDimCustomer | Customer segmentation analysis |
+| SQLDimReseller | Reseller sales analysis |
+| SQLEnglishProduct | Product profit analysis |
+| SQLFactResellerSales | Sales profit calculations |
+| Percentage,Profit_Of_Men_And_Women | Gender-based profit comparison |
+| SQLMarginOfMF_DimCustomer | Male/Female customer margin |
+
+## 📊 Excel Projects
+
+| File | Description | Features Used |
+|---|---|---|
+| Flower Sales (TR/EN/PL) | Monthly sales analysis | SUBTOTAL, Data Validation, Dropdown, Conditional Formatting, Charts, MIN/MAX/AVG |
+
+> 📝 All reports available in **English, Turkish and Polish**
+
+---
 
 \- \*\*`/VBA`\*\* – VBA automation scripts (one-click refresh, pivot table update)
 
 \- \*\*/images\*\* – Screenshots of reports and dashboards
-
+\- \*\*/SQL\*\* – All queries
 
 
 \---
