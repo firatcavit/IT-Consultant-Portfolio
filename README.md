@@ -61,3 +61,43 @@ Language : Turkish, Polish , English
 
 \- Min, Max, Average, Count (`MIN`, `MAX`, `AVERAGE`, `COUNT`)
 
+
+########################################################################################################################################################################################                               
+
+## 🌸 Flower Sales Report (Multilingual)
+
+## 📁 Excel Report – Key Features
+
+- **SUBTOTAL Function:** Dynamic totals that respect filters.
+- **Data Filtering:** Quick listing by product, seller, or sales amount.
+- **Multilingual Support:** Turkish, English, and Polish versions available in **one Excel file (3 sheets)**
+- **Sales Calculation:** `Total Amount = Unit Price × Quantity`.
+
+### 🔍 Review
+
+- [Multilingual Sales Report (TR/EN/PL)](https://1drv.ms/x/c/0a8adfaceb1dc513/IQCFzHQ8LJgAQrZb8zmN9saEAcqvwFr6gupo-6zxydHqoS4?e=yF2suQ)
+
+
+### 📸 Screenshots
+![Turkish Report](images/report_tr.png)
+
+
+![English Report](images/report_en.png)
+
+
+![Polish Report](images/report_pl.png)
+
+
+
+## 🔍 Data Filtering & Listing
+
+The report includes **AutoFilter** (`Ctrl + Shift + L`) to list data dynamically by product, seller, or price range.
+
+**What you can do:**
+- Filter by **Product Name** (Rose, Orchid, Daisy, Carnation)
+- Filter by **Seller Name**
+- Filter by **Sales Amount** (greater than, less than, between)
+
+**Benefits:**
+- Quick data exploration without changing the original table.
+- Dynamic listing for customer or manager presentations.
