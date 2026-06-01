@@ -100,7 +100,7 @@ Language : Turkish, Polish , English
 ## Turkish Report
 ![Turkish Report](images/report_tr.png)
 
-## Enlisgh Report
+## English Report
 ![English Report](images/report_en.png)
 
 ## Polish Report
