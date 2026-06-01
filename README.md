@@ -75,7 +75,7 @@ Language : Turkish, Polish , English
 
 ### 🔍 Review
 
-- [Multilingual Sales Report (TR/EN/PL)](https://1drv.ms/x/c/0a8adfaceb1dc513/IQCFzHQ8LJgAQrZb8zmN9saEAcqvwFr6gupo-6zxydHqoS4?e=yF2suQ)
+- [Multilingual Sales Report (TR/EN/PL)] (https://1drv.ms/x/c/0a8adfaceb1dc513/IQCFzHQ8LJgAQrZb8zmN9saEAcqvwFr6gupo-6zxydHqoS4?e=yF2suQ)
 
 
 ### 📸 Screenshots
