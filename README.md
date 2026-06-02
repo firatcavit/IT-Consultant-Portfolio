@@ -63,7 +63,13 @@ This repository contains my \*\*SQL, Excel, and VBA\*\* projects prepared for th
 
 - 🇬🇧 Automatically checks profit values and colors cells
 - 🇹🇷 Kar/zarar değerlerini otomatik kontrol eder ve renklendirir
-- 🇵🇱 Automatycznie sprawdza wartości
+- 🇵🇱 Automatycznie sprawdza wartoś
+
+|---|---|
+| TaxCheck.bas | Tax checker with automatic cell coloring (red/green) |
+- 🇬🇧 Automatically calculates VAT based on price
+- 🇹🇷 Bu makro otomatik vergi ucretini hesaplar
+- 🇵🇱 Automatycznie oblicze VAT
 
 \- \*\*/images\*\* – Screenshots of reports and dashboards
 \- \*\*/SQL\*\* – All queries
@@ -105,7 +111,7 @@ Language : Turkish, Polish , English
 \- Min, Max, Average, Count (`MIN`, `MAX`, `AVERAGE`, `COUNT`)
 
 
-########################################################################################################################################################################################                               
+################################################################################################################################################################################                               
 
 ## 🌸 Flower Sales Report (Multilingual)
 
@@ -149,8 +155,7 @@ The report includes **AutoFilter** (`Ctrl + Shift + L`) to list data dynamically
 
 
 
-########################################################################################################################################################################################
-
+################################################################################################################################################################################
 
 
 ## 📂 SQL Queries (AdventureWorksDW2022)
@@ -183,7 +188,7 @@ Each file includes **3‑language documentation** (English, Turkish, Polish).
 
 **All queries were tested on Microsoft's AdventureWorksDW2022 sample database.**
 
-########################################################################################################################################################################################
+################################################################################################################################################################################
 
 
 ## 📊 VBA Project: Profit/Loss Checker with Color Coding
@@ -196,5 +201,43 @@ Each file includes **3‑language documentation** (English, Turkish, Polish).
 
 [ProfitCheck_WithColorAndMessage.bas](VBA/ProfitCheck.bas) 
 Profit/Loss checker with cell coloring (red/green) and completion message box.
+
+
+################################################################################################################################################################################
+
+
+## 📊 VBA Project: Tax Calculator (KDV Checker with Color Coding)
+
+This macro automatically calculates **23% VAT** for each price in column A, writes the result in column B with colors
+- Dynamically finds the last row with data in column A (works with any dataset size)
+- Calculates VAT: `(Price × 23) / 100`
+- Writes VAT amount to column B
+- Colors the cell:
+  - 🟢 **Green** if VAT > 1000
+  - 🔴 **Red** if VAT ≤ 1000
+- Displays a **"It's counted"** message box when finished
+
+### 📂 File
+
+| File | Description |
+| :--- | :--- |
+| [Taxcheck.bas](VBA/TaxCheck.bas) | VAT calculator with dynamic range, conditional coloring, and completion alert. |
+
+### 🖼️ Example Output
+
+| Column A (Price) | Column B (VAT) | Color |
+| :--- | :--- | :--- |
+| 1000 | 230 | 🔴 Red |
+| 5000 | 1150 | 🟢 Green |
+| 2000 | 460 | 🔴 Red |
+
+### 🛠️ Technologies Used
+
+- **VBA (Visual Basic for Applications)**
+- Dynamic range detection (`.End(xlUp)`)
+- Loops (`For`)
+- Conditional logic (`If Else`)
+- Cell formatting (`Interior.Color`)
+- User feedback (`MsgBox`)
 
 
