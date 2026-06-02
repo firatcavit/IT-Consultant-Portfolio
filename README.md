@@ -156,3 +156,19 @@ Each file includes **3‑language documentation** (English, Turkish, Polish).
 ---
 
 **All queries were tested on Microsoft's AdventureWorksDW2022 sample database.**
+
+########################################################################################################################################################################################
+
+
+## 📊 VBA Project: Profit/Loss Checker with Color Coding
+- Its Automatically analyzes profit data
+- Loops through each row and checks if profit is ≤ 1000
+- Writes **"Loss"** (red background) or **"Profit"** (green background)
+- Shows **"Done"** message box when finished
+
+### 📂 File
+
+[ProfitCheck_WithColorAndMessage.bas](VBA/ProfitCheck.bas) 
+Profit/Loss checker with cell coloring (red/green) and completion message box.
+
+
