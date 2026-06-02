@@ -2,11 +2,11 @@
 
 👋 Hi, Cześć, Selam
 
-I am learning IT and software development basics. I have started practicing with Excel VBA and simple programming concepts.
+I am learning IT and software development basics. I have experience in **SQL, Excel, VBA, and Python** through hands-on projects.
 
-I am still at the beginning stage and trying to improve by doing small exercises and projects.
+I am actively improving my skills and building a portfolio to demonstrate my capabilities in data analysis and reporting.
 
-You can review my project below 👇:
+You can review my projects below 👇
 
 ## 🧠 Learning
 
@@ -58,18 +58,10 @@ This repository contains my \*\*SQL, Excel, and VBA\*\* projects prepared for th
 ## 🤖 VBA Projects
 
 | File | Description |
-|---|---|
+| :--- | :--- |
 | ProfitCheck.bas | Profit/Loss checker with automatic cell coloring (red/green) |
-
-- 🇬🇧 Automatically checks profit values and colors cells
-- 🇹🇷 Kar/zarar değerlerini otomatik kontrol eder ve renklendirir
-- 🇵🇱 Automatycznie sprawdza wartoś
-
-|---|---|
 | TaxCheck.bas | Tax checker with automatic cell coloring (red/green) |
-- 🇬🇧 Automatically calculates VAT based on price
-- 🇹🇷 Bu makro otomatik vergi ucretini hesaplar
-- 🇵🇱 Automatycznie oblicze VAT
+
 
 \- \*\*/images\*\* – Screenshots of reports and dashboards
 \- \*\*/SQL\*\* – All queries
