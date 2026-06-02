@@ -67,7 +67,7 @@ This repository contains my \*\*SQL, Excel, and VBA\*\* projects prepared for th
 
 \- \*\*/images\*\* – Screenshots of reports and dashboards
 \- \*\*/SQL\*\* – All queries
-
+\- \*\*/VBA\*\* – Scripts
 
 \---
 
