@@ -38,12 +38,12 @@ This repository contains my \*\*SQL, Excel, and VBA\*\* projects prepared for th
 
 | File | Description |
 |---|---|
-| SQLDimCustomer | Customer segmentation analysis |
-| SQLDimReseller | Reseller sales analysis |
-| SQLEnglishProduct | Product profit analysis |
-| SQLFactResellerSales | Sales profit calculations |
-| Percentage,Profit_Of_Men_And_Women | Gender-based profit comparison |
-| SQLMarginOfMF_DimCustomer | Male/Female customer margin |
+| [SQLDimCustomer.sql](SQL/SQLDimCustomer.sql) | Customer segmentation analysis |
+| [SQLDimReseller.sql](SQL/SQLDimReseller.sql) | Reseller sales analysis |
+| [SQLEnglisProduct.sql](SQL/SQLEnglisProduct.sql) | Product profit analysis |
+| [SQLFactResellerSales.sql](SQL/SQLFactResellerSales.sql) | Sales profit calculations |
+| [Percentage,Profit_Of_Men_And_Women.sql](SQL/Percentage%2CProfit_Of_Men_And_Women.sql) | Gender-based profit comparison |
+| [SQLMarginOfMF_DimCustomer.sql](SQL/SQLMarginOfMF_DimCustomer.sql) | Male/Female customer margin |
 
 ## 📊 Excel Projects
 
@@ -59,8 +59,8 @@ This repository contains my \*\*SQL, Excel, and VBA\*\* projects prepared for th
 
 | File | Description |
 | :--- | :--- |
-| ProfitCheck.bas | Profit/Loss checker with automatic cell coloring (red/green) |
-| TaxCheck.bas | Tax checker with automatic cell coloring (red/green) |
+| [ProfitCheck_WithColorAndMessage.bas](VBA/ProfitCheck.bas) | Profit/Loss checker with automatic cell coloring (red/green) |
+| [Taxcheck.bas](VBA/TaxCheck.bas) | Tax checker with automatic cell coloring (red/green) |
 
 
 \- \*\*/images\*\* – Screenshots of reports and dashboards
