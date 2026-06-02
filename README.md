@@ -55,7 +55,15 @@ This repository contains my \*\*SQL, Excel, and VBA\*\* projects prepared for th
 
 ---
 
-\- \*\*`/VBA`\*\* – Profit/Loss checker with cell coloring (red/green) and completion message box.
+## 🤖 VBA Projects
+
+| File | Description |
+|---|---|
+| ProfitCheck.bas | Profit/Loss checker with automatic cell coloring (red/green) |
+
+- 🇬🇧 Automatically checks profit values and colors cells
+- 🇹🇷 Kar/zarar değerlerini otomatik kontrol eder ve renklendirir
+- 🇵🇱 Automatycznie sprawdza wartości
 
 \- \*\*/images\*\* – Screenshots of reports and dashboards
 \- \*\*/SQL\*\* – All queries
