@@ -10,7 +10,7 @@ Sub Taxcheck()
         Range("B" & i).Value = (price * 23)/100 ' also price * 2,3 can be used
 
         if Range("B" & i).Value > 1000 Then
-            Range("B" & i).Interior.Color = RGB(0,255,0) 'gree
+            Range("B" & i).Interior.Color = RGB(0,255,0) 'green
         else
             Range("B" & i).Interior.Color = RGB(255,0,0) ' red
         End If
