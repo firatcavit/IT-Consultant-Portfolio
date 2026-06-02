@@ -37,7 +37,7 @@ This repository contains my \*\*SQL, Excel, and VBA\*\* projects prepared for th
 
 ---
 
-\- \*\*`/VBA`\*\* – VBA automation scripts (one-click refresh, pivot table update)
+\- \*\*`/VBA`\*\* – Profit/Loss checker with cell coloring (red/green) and completion message box.
 
 \- \*\*/images\*\* – Screenshots of reports and dashboards
 \- \*\*/SQL\*\* – All queries
