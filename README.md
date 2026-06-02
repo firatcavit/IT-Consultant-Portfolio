@@ -1,3 +1,21 @@
+## About Me
+
+👋 Hi, Cześć, Selam
+
+I am learning IT and software development basics. I have started practicing with Excel VBA and simple programming concepts.
+
+I am still at the beginning stage and trying to improve by doing small exercises and projects.
+
+You can review my project below 👇:
+
+## 🧠 Learning
+
+- VBA (basic)
+- Python (basic)
+- Excel (intermediate)
+- SQL (intermediate)
+- KQL (intermediate)
+
 # IT-Consultant-Portfolio
 
 SQL, Excel and VBA projects for data analysis and reporting
