@@ -63,10 +63,17 @@ This repository contains my \*\*SQL, Excel, and VBA\*\* projects prepared for th
 | [Taxcheck.bas](VBA/TaxCheck.bas) | Tax checker with automatic cell coloring (red/green) |
 
 
+## 🤖 PYTHON Projects
+
+| File | Description |
+| :--- | :--- |
+| [db.py](PANDAS/db.py) | Connects Python to SQL Server using pyodbc, runs a query, and loads data into a Pandas |
+
+
 \- \*\*/images\*\* – Screenshots of reports and dashboards
 \- \*\*/SQL\*\* – All queries
 \- \*\*/VBA\*\* – Scripts
-
+\- \*\*/PANDAS\*\* – Scripts
 \---
 
 
@@ -232,4 +239,21 @@ This macro automatically calculates **23% VAT** for each price in column A, writ
 - Cell formatting (`Interior.Color`)
 - User feedback (`MsgBox`)
 
+################################################################################################################################################################################
 
+# 🗄️ SQL Server to Pandas Data Analysis
+
+This project demonstrates how to connect to a **Microsoft SQL Server** database using `pyodbc`, run a SQL query, and load the results into a **Pandas DataFrame** for analysis.
+
+## 🔧 Technologies Used
+
+- 🐍 **Python** – Main programming language
+- 🔗 **pyodbc** – To connect Python with SQL Server
+- 📊 **pandas** – For data manipulation and display
+- 🗃️ **SQL Server (AdventureWorksDW2022)** – Sample database from Microsoft
+
+### 📂 File
+
+| File | Description |
+| :--- | :--- |
+| [db.py](PANDAS/db.py) | Connects Python to SQL Server using pyodbc, runs a query, and loads data into a Pandas |
