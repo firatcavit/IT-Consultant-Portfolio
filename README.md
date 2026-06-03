@@ -63,11 +63,13 @@ This repository contains my \*\*SQL, Excel, and VBA\*\* projects prepared for th
 | [Taxcheck.bas](VBA/TaxCheck.bas) | Tax checker with automatic cell coloring (red/green) |
 
 
-## 🤖 PYTHON Projects
+## 🤖 Python Projects
 
 | File | Description |
 | :--- | :--- |
-| [db.py](PANDAS/db.py) | Connects Python to SQL Server using pyodbc, runs a query, and loads data into a Pandas |
+| [db.py](PANDAS/db.py) | Connects Python to SQL Server using pyodbc, runs a query, and loads data into a Pandas DataFrame. |
+
+- **/PANDAS** – Python scripts for data analysis
 
 
 \- \*\*/images\*\* – Screenshots of reports and dashboards
