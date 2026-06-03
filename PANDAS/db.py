@@ -8,7 +8,7 @@ conn = pyodbc.connect(
     'Trusted_Connection=yes;' # Windows Authentication
 ) # connect parameter is used to connect
 
-# Örnek sorgu
+# Example query
 sorgu = "select OrderMonth,count(*) as Total from DimReseller where OrderMonth is not null group by OrderMonth order by OrderMonth asc"
 df = pd.read_sql(sorgu, conn) # conn will connect to sql to read our query 
 print(df)
